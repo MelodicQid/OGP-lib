@@ -20,3 +20,11 @@ A conceptual Python library that demonstrates phase-based key generation using n
    pip install networkx matplotlib
 
    2.	Run the demo:python examples/demo_recursive_key.py
+
+   DOI
+
+Zenodo: 10.5281/zenodo.15684052
+
+Author
+
+Aziz Aysenov (Earth as Love)
